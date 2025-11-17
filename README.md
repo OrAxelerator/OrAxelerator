@@ -9,7 +9,7 @@ Passionné par le développement web, je travaille actuellement sur plusieurs pr
 ---
 ## 🧩 Mes projets principaux
 - 🔗 [NsiPédia](https://github.com/OrAxelerator/NsiPedia) —  Dépôt GitHub où sont centralisés les cours de NSI.
-- 🔗 [Pixel-info](https://github.com/OrAxelerator/web) — Mini Wikipédia où j’écris des articles sur divers sujets plus ou moins liés à la tech.
+- 🔗 [Pixel-info](https://oraxelerator.github.io/web/websites/pixel-info/index.html) — Mini Wikipédia où j’écris des articles sur divers sujets plus ou moins liés à la tech.
 - 🔗 [MyEnt](https://github.com/OrAxelerator/myEnt) — Extension web qui modifie l’interface de l’ENT (Environnement de Travail Virtuel).
 ---
 # 💻 Tech Stack:
