@@ -9,7 +9,7 @@ Passionné par le développement web, je travaille actuellement sur plusieurs pr
 ---
 ## 🧩 Mes projets principaux
 - 🔗 [NsiPédia](https://github.com/OrAxelerator/NsiPedia) —  Dépôt GitHub où sont centralisés les cours de NSI.
-- 🔗 [Pixel-info](https://oraxelerator.github.io/web/websites/pixel-info/index.html) — Mini Wikipédia où j’écris des articles sur divers sujets plus ou moins liés à la tech.
+- 🔗 [Pixel-info](https://github.com/OrAxelerator/web/tree/main/websites/pixel-info) — Mini Wikipédia où j’écris des articles sur divers sujets plus ou moins liés à la tech.
 - 🔗 [MyEnt](https://github.com/OrAxelerator/myEnt) — Extension web qui modifie l’interface de l’ENT (Environnement de Travail Virtuel).
 ---
 # 💻 Tech Stack:
@@ -19,7 +19,7 @@ Passionné par le développement web, je travaille actuellement sur plusieurs pr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrAxelerator&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 ## 🎯 Objectifs d’apprentissage
-- [✍️]  Écrire une trentaine d'article sur pixel info
+- [✍️]  Écrire une trentaine d'article sur pixel info 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 13%
 - [♟️] Recréer un jeu d'échec en ligne avec pourquoi pas des variantes
 - [🃏] Recréer le jeu de carte  "la Tour de l'AS" en ligne (jeu inventé par moi et mes amis)
 - [🛠️] Commencer à apprendre les scripts Bash
