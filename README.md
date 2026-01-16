@@ -1,14 +1,5 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-## 👨‍💻 À propos de moi
-Passionné par le développement web, je travaille actuellement sur plusieurs projets et j'apprends de nouvelles compétences chaque jour.
-
-- 🚀 Projets web en cours
-- 🌱 Actuellement en train d’apprendre **Python**, **JavaScript**, **HTML/CSS**
-- 🎯 Objectif : s'améliorer chaque jour (esprit kaizen)
-
----
-
 ## 🧩 Mes projets principaux
 - 🔗 [NsiPédia](https://github.com/OrAxelerator/NsiPedia) —  Dépôt GitHub où sont centralisés les cours de NSI.
 - 🔗 [Pixel-info](https://github.com/OrAxelerator/web/tree/main/pwa/pixel-info) — Mini Wikipédia où j’écris des articles sur divers sujets plus ou moins liés à la tech.
