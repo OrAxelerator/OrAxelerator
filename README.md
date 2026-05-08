@@ -13,7 +13,7 @@
 ---
 
 # 📊 Mon activité GitHub:
-[![](https://raw.githubusercontent.com/OrAxelerator/OrAxelerator/main/metrics.svg)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OrAxelerator&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OrAxelerator&layout=compact&theme=dark)
 
 ---
 
