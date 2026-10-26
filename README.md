@@ -13,7 +13,7 @@
 ---
 
 # 📊 Mon activité GitHub:
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OrAxelerator&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=OrAxelerator&layout=compact&theme=dark)
 
 ---
 
